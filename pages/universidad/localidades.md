@@ -19,7 +19,7 @@ folder: universidad
 - Por favor no cole a sus amigos de otras carreras (en serio, no se agilen porfa), si invita a alguien no abuse.
 - La red wifi “DI” es una inteligencia artificial tsundere y funciona cuando quiere. Aunque cualquiera sería “tsundere” si 150 computadores le hacen bukkake para jugar lol o subir dank memes…
 - Banearon a alguien por tener una botella vacía sobre una de las islas, asegúrate de leer el reglamento del LDS para que no te pase.
-- Hay unas mesitas donde tenemos un mercadito de snacks, no sea weon y no se robe las cosas :/
+- Hay unas mesitas donde había un mercadito de snacks.
 
 ## Primos
 
@@ -43,7 +43,7 @@ folder: universidad
 - El Master is love, El Master is life (local externo al lado del INACAP). ~~ignorando los ratones~~
 - Para almorzar en el casino es recomendable comer en el bloque 7-8, ya que en ese horario hay muchos alumnos que se retiran a sus clases del 9-10. Si puede, úselo. De lo contrario, traten de asegurarse yendo a eso de las 12:40, para evitar la congestión que se produce con el final del bloque 5-6.
 - Estaba el café La Sede que era la mejor y más bella cafetería del mundo con muchos corazones, pero en el 2019 se fueron RIP, después en el último piso se puso otra que murió a finales del 2024 :c.
-- Hay 3 quioscos en la U, el primero está afuera del casino y tiene mesitas, un microondas y weas pa calentar el pan, luego están los que están pasando el FabLab, la inflación se mide por que tan caro está el café en esos locales.
+- Hay 3 quioscos en la U, el primero está afuera del casino y tiene mesitas, un microondas y weas pa calentar el pan, luego están los que están ~~pasando el FabLab~~ en los food trucks al lado de la Sala Pasta. La inflación se mide por que tan caro está el café en esos locales.
 
 ## CIAC
 
@@ -58,7 +58,7 @@ folder: universidad
 
 - Es el pasillo con ventanales debajo del CIAC (entienden? CI-AC, NO-AC...noo por favor todavía no termino la carreraaa)
 - Tiene dos ambientes, el de al frente tiene mesas largas para hartas personas con harta luz y con vista a cerrito, el de atras tiene mesas más chicas y lugares pa sentarse solo a estudiar, lo llaman la sala oscura porque apenas llega luz e internet.
-- Antes se ponía el mercadito en los puestos que daban al pasillo de la zona del frente del NOAC, era el mercado negro de la u, hecho por y para estudiantes, se vendía literal de todo, handrolls, score a luca, materiales escolares, serranita 2x500, bolsas de papas fritas, tabaco, encendedores, basicamente todo lo que te puedes imaginar, pero a finales del 2024 lo banearon.
+- Antes se ponía el mercadito en los puestos que daban al pasillo de la zona del frente del NOAC, era el mercado negro de la u, hecho por y para estudiantes, se vendía literal de todo, handrolls, score a luca, materiales escolares, serranita 2x500, bolsas de papas fritas, tabaco, encendedores, básicamente todo lo que te puedes imaginar, pero a finales del 2024 lo banearon.
 
 ## Librería Don Fede
 
@@ -83,7 +83,7 @@ folder: universidad
 ## Sansanito
 
 - Al lado de las canchas escondido se encuentra Sansanito, clínica N#1 de Latinoamérica y especializada en agüitas de yerba y parches curita.
-- Si te lesionaste jugando a la pelota o en un deportivo, puedes ir y te corre el seguro escolar, pudiendo atenderte en el Barros Luco (no el sandwich, ni el expresidente, el hospital).
+- Si te lesionaste jugando a la pelota o en un deportivo, puedes ir y te corre el seguro escolar, pudiendo atenderte en el Barros Luco (no el sandwich, ni el expresidente, el hospital). Su servicio de urgencias vale corneta sí.
 - A un amigo le dio una contractura muscular por jugar a la pelota con el cuerpo helado. Le inyectaron un relajante por Detroit. Calentar no es un juego. Winners don’t use drugs.
 - También ofrecen atención dental y psicológica, aunque de este último se satura muy rápidamente. Si necesitas hora (o sesiones mensuales) tienes que ir lo antes posible (en abril ya está todo reservado) (paro por salud mental 2019).
 
@@ -97,7 +97,8 @@ folder: universidad
 
 ## Sala Pasta
 
-- Entre las salas A y la cancha de Calistenia se encuentra la sala pasta, maravilloso lugar destinado exclusivamente a dormir, comer, jugar y jugar de nuevo :D, dentro hay un arcade y afuera hay taca-tacas.
+- Entre las salas A y la cancha de Calistenia se encuentra la sala pasta, maravilloso lugar destinado exclusivamente a dormir, comer, jugar y jugar de nuevo :D, dentro ~~hay~~ había un arcade y afuera ~~hay~~ habían taca-tacas.
+- Siempre hay olores raros en esta sala, incluso peores que en el LDS.
 
 ## FabLab
 

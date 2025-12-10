@@ -11,7 +11,7 @@ folder: universidad
 | SIGA (Sistema de información de gestión académica) | [https://siga.usm.cl](siga.usm.cl) |
 | Gestión de cursos y material de cursos de carreras en general | [http://aula.usm.cl][aula] |
 | Calendario académico | [http://www.vra.usm.cl/calendario-academico/](vra.usm.cl/calendario-academico) |
-| Correo de la carrera | [http://zimbra.alumnos.inf.utfsm.cl][zimbra] |
+| Correo de la carrera (que nadie usa actualmente e incluso el DI quiere deshacerse de esta cosa) | [http://zimbra.alumnos.inf.utfsm.cl][zimbra] |
 | Dirección de estudios | [http://www.dee.usm.cl](dee.usm.cl) |
 | SIREB: Solicitud de asistentes sociales, dentista, kinesiólogo, becas entre otros | [http://sireb.usm.cl](sireb.usm.cl) |
 | Portal de pagos (Pago de cuotas online) | [http://autoservicio.usm.cl](autoservicio.usm.cl) |

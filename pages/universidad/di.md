@@ -13,13 +13,13 @@ José Luis Martí es un profesor sumamente simpático, pero a la vez muy estrict
 
 **Contacto:**
 
-- **Su email es [jmarti@inf.utfsm.cl][mail_marti]. Recuérdenlo y anótelo porque lo necesitará al menos 3 veces al año.**
-- Horario de atención: Lunes a jueves, de 10:00 a 11:30 am. (Puede variar) Oficina A-141 (Al lado de las secretarías del departamento).
+- **Su email es [joseluis.marti@usm.cl][mail_marti]. Recuérdenlo y anótenlo porque lo necesitará al menos 3 veces al año. Tenía otro correo antes, pero dicen que te paquea si le escribes a ese.**
+- Horario de atención: Lunes y miércoles, de 9:35 a 10:45 am. (Puede variar) Oficina K-612 (Edifico K, donde están las secretarías del departamento).
 
 **Comentarios:**
 
 - Pórtense bien con él, puesto que también es profesor ~~(se los puede rajar brigidamente)~~.
-- No es marty, ni marti, ni morty. Es Mart**í**. Baja nota si no lo dicen bien, si no lo cree diríjase a la sección [“Base de Datos”][DB].
+- No es marty, ni marti, ni morty. Es Mart**í**. Baja nota si no lo dicen bien, si no lo cree diríjase a la sección [“Bases de Datos”][BD].
 - A Martí no le gusta que se duerman o no pesquen sus clases, **no pongan los pies sobre las sillas!!!**
 - <p class="foraneas">Gloria a las foráneas.</p>
 
@@ -29,7 +29,7 @@ Mantenerse informado, especialmente a través de:
 
 - Correos institucionales (@sansano, @usm) y de informática (@alumnos.inf).
 - Moodle y Aula (Plataformas de gestión de asignaturas).
-- Centro de estudiantes (CEEINF), la federación de estudiantes (FEUSAM) y otros grupos de interés (consultar con sus compañeros).
+- Centro de estudiantes ([CEEINF](https://www.instagram.com/ceeinf_sj/)), la federación de estudiantes ([FEUSAM](https://www.instagram.com/feusam.usm.sj/)) y otros grupos de interés (consultar con sus compañeros).
 
 ## La malla vieja, la malla 2014 y la malla 2025
 
@@ -39,7 +39,7 @@ Para la generación del 2025 empieza a aplicar la nueva nueva malla de informát
 
 - La duración de la carrera se redujo de 5 años y medio a solo 5 años.
 - Ya no se tiene que hacer un trabajo de titulo para titularse.
-- Se eliminaron varios ramos de relleno de la malla, entre ellos, química, 140, OSI, entre otros.
+- Se eliminaron varios ramos de relleno de la malla, entre ellos, química, física 140, OSI, entre otros.
 
 <div class = "text-center">
     <img    src="images/universidad/malla-2025.webp"
@@ -79,6 +79,6 @@ Recuerdos de un pasado ya extinto, no quedan especimenes de aquellas generacione
             >
 </div>
 
-[mail_marti]: mailto:jmarti@inf.utfsm.cl
-[DB]: semestre5_INF239.html
+[mail_marti]: mailto:joseluis.marti@usm.cl
+[BD]: semestre5_INF239.html
 [malla_info]: https://mallas.labcomp.cl/
