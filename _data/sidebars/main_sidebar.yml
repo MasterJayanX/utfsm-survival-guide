@@ -3,7 +3,7 @@
 entries:
   - title: sidebar
     product: Manual Edición
-    version: 2024-2 (Work in progress)
+    version: 2025-2/2026-1 (Work in progress)
     folders:
       - title: Sección Principal
         output: web, pdf
@@ -278,4 +278,8 @@ entries:
 
                   - title: Historia Chilena Contemporánea
                     url: /HFW-131.html
+                    output: web
+
+                  - title: Filosofía de la Tecnología
+                    url: /HAF-100.html
                     output: web

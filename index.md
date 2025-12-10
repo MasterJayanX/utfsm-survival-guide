@@ -7,7 +7,7 @@ layout: default
 ---
 
 <div class="text-center">
- <img src="images/manual_logo.png" alt="Y aquí pondría mi logo SI TUVIERA UNO" width="400px" height="auto" style="margin-left:10%;">
+ <img src="images/manual_logo.png" alt="Y aquí está el logo" width="400px" height="auto" style="margin-left:10%;">
  <h2>Manual de supervivencia para informáticos USM</h2>
 </div>
 
@@ -28,7 +28,7 @@ Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzan
 
 ## Malla Nueva
 
-El manual está hecho con la malla vieja que aplica para todos los alumnos ingresados hasta el 2024, se está trabajando en un rework del manual desde 0 para acomodar ambas mallas, pero por ahora dejamos una lista de paralelismos entre los ramos viejos y los nuevos para que los nuevos sansanos puedan ocupar el manual.
+El manual está hecho con la malla vieja que aplica para todos los alumnos ingresados hasta el 2024. Se está trabajando en un rework del manual desde 0 para acomodar ambas mallas, pero por ahora dejamos una lista de paralelismos entre los ramos viejos y los nuevos para que los nuevos sansanos puedan ocupar el manual.
 
 - Semestre 1
   - [Introducción a la Programación]({{ site.baseurl }}/IWI-131.html)

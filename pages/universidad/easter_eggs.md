@@ -18,6 +18,11 @@ folder: universidad
   | Toma más corta | 2 horas 10/05/18 - Toma feminista |
   | Paro más largo | 2011 |
 
+- Récord de tiempos de paralización en tiempos recientes
+
+  | Menor tiempo sin paros | 2019 (múltiples paros en el año, segúin dicen)
+  | Mayor tiempo sin paros | 2020-presente |
+
 Las leyendas hablan de un ramo llamado ARI, del cual proviene la peor nota conocida hasta ahora: -3 (y de gente que estaba por titularse y sólo les faltaba aprobarlo :'c )
 
 - Uno se puede quedar a dormir en la U. Bastante útil para cuando tienes que terminar un proyecto en menos de 24 horas
@@ -51,6 +56,9 @@ Las leyendas hablan de un ramo llamado ARI, del cual proviene la peor nota conoc
 - Si hay aires de paro, salva tu primer certamen, ~~si se alarga el paro cierran los ramos con las notas que están~~ mentira 2019-1 después del paro y la renuncia de FEUSAM: "Bueno chicos, no firmaremos nada y el semestre termina en 2 semanas. Buena suerte!"
 - **Teorema antiguo del Año Par**: No hay paros en los años par (para demostración del teorema leer paper "Paro y par, la contra polaridad parcial". Fuente: [Data Expunged])
   - En el 2018 la teoría queda refutada, debido a que hubo movilizaciones por las causas feministas. (Teorema nuevo del Semestre Par?)
+- Ya no hay paros, para bien **o para mal**...
+- FEUSAM no hace nada y CEEINF es el único centro que hace más cosas aparte de no hacer nada. Change my mind.
+  - En este año 2026 hay un informático en FEUSAM, así que esto automáticamente es inválido.
 
 [doggo]: https://www.facebook.com/meme.senpai.uwu
 
